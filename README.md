@@ -1,6 +1,6 @@
-Author: Alagwu David
-Username: @Alagwudavid
-Email: alagwudavid@gmail.com
+- Author: Alagwu David
+- Username: @Alagwudavid
+- Email: alagwudavid@gmail.com
 
 Project Name: Simple_shell
 weight: 10
