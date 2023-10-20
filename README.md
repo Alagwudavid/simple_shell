@@ -8,17 +8,6 @@ Description: “The Gates of Shell”, by Spencer Cheng, featuring Julien Barbie
 
 # Simple Shell
 
-
-```sh
- ________ _                 _____       _                         __        _____ _          _ _ 
-|___  ___| |               / ____|     | |                       / _|      / ____| |        | | |
-    | |  | |__   ___      | |  __  __ _| |_ ___  ___        ___ | |_      | (___ | |__   ___| | |
-    | |  | '_ \ / _ \     | | |_ |/ _` | __/ _ \/ __|      / _ \|  _|      \___ \| '_ \ / _ \ | |
-    | |  | | | |  __/     | |__| | (_| | ||  __/\__ \     | (_) | |        ____) | | | |  __/ | |
-    |_|  |_| |_|\___|      \_____|\__,_|\__\___||___/      \___/|_|       |_____/|_| |_|\___|_|_|
-```
-
-
 <details>
 <summary>The Gates of Shell by Spencer Cheng, featuring Julien Barbier</summary>
 </details>
